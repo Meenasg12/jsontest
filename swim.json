@@ -2,6 +2,9 @@
 {
   "Male": {
      "BreastStroke" : {
+        "FinalValue"
+      },
+      "FreeStyle" : {
         "A" : "20",
         "B" : "30"
       }
